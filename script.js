@@ -230,7 +230,7 @@ console.log(speeds);
              document.writeln("Hello on Webpage");
 // console.log()
              
-// 🔥 Practical Questions
+// Practical Questions
 // You can also give these as coding tasks:
 // 1)Create a variable for student name, age, and mark and print all three.
              let studentName = "John";
